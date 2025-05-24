@@ -120,7 +120,7 @@ jobs:
        with:
          push: true
          tags: vamshikrishna2208/bankapp:latest
-        
+         file: ./Dockerfile
 
 
   
